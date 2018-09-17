@@ -5,4 +5,4 @@ def line(arr)
   if arr.length == 0 
     puts "The line is currently empty."
   else 
-    arr.each
+    arr.each.with_index(1) 
