@@ -19,6 +19,6 @@ end
 
 def now_serving(arr)
   if arr == 0 
-    
+    puts ""
   
       
