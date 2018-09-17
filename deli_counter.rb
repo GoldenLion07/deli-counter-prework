@@ -1,3 +1,4 @@
 katz_deli = []
 
-def 
+def line(arr)
+  
