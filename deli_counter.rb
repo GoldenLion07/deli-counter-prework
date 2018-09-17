@@ -11,4 +11,7 @@ def line(arr)
     puts "The line is currently: #{line_array.join(" ")}"
   end
 end
+
+def take_a_number
+  
       
